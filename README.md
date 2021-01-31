@@ -1,4 +1,4 @@
-# Burp-Academy
+# Burp-Academy (QnA)
 
 Burp Academy Exercise by Portswigger
 
