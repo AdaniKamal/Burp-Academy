@@ -2,6 +2,6 @@
 
 Burp Academy Exercise by Portswigger
 
-Contain many types of vuln....
+Contain many types of vuln.....
 
 https://portswigger.net/web-security/dashboard
